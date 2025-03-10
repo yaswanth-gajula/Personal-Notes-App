@@ -1,4 +1,3 @@
-# Personal-Notes-App
 # Personal Notes App
 
 A simple personal notes app built with **HTML, CSS, JavaScript** (Frontend), **Node.js & Express.js** (Backend), and **MongoDB** (Database).
@@ -70,6 +69,6 @@ Simply open `index.html` in your browser.
 - Store notes in local storage for offline access
 
 ---
-**Author**: [Your Name]  
+**Author**: Yaswanth Kumar Gajula  
 **License**: MIT
 
